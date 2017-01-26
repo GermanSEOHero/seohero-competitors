@@ -93,6 +93,11 @@ $domains = [
     'theheroicseo.com',
     'a-seo-hero.com',
     'seoheroes.co',
-    'superseohero.top'
+    'superseohero.top',
+    'seoherosweb.com',
+    'terry-kyle.live',
+    'seohero.today',
+    'herofseo.com',
+    'seoherobyepidemic.com'
 ];
 ?>
