@@ -98,6 +98,19 @@ $domains = [
     'terry-kyle.live',
     'seohero.today',
     'herofseo.com',
-    'seoherobyepidemic.com'
+    'seoherobyepidemic.com',
+    'giftedseohero.com',
+    'herodallasseo.com',
+    'herodallasseo.com',
+    'seohero360.com',
+    'seoherodrone.com',
+    'seoherowinner.com',
+    'terry-kyle.com',
+    'terry-kyle.pro',
+    'seo-hero.blog',
+    'seohero01.info',
+    'seohero3.info',
+    'seohero.info',
+    'seoheromk.com'
 ];
 ?>
